@@ -2,5 +2,7 @@ Revision history for Perl extension Mojolicious-Plugin-ErrorTracking-Sentry
 
 {{$NEXT}}
 
+1.0.0 2017-12-12T03:41:39Z
+
     - original version
 

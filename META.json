@@ -60,6 +60,17 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/osdakira/Mojolicious-Plugin-ErrorTracking-Sentry/issues"
+      },
+      "homepage" : "https://github.com/osdakira/Mojolicious-Plugin-ErrorTracking-Sentry",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/osdakira/Mojolicious-Plugin-ErrorTracking-Sentry.git",
+         "web" : "https://github.com/osdakira/Mojolicious-Plugin-ErrorTracking-Sentry"
+      }
+   },
    "version" : "1.0.0",
    "x_authority" : "cpan:OSDAKIRA"
 }
