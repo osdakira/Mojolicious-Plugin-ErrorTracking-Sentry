@@ -151,17 +151,17 @@ This plugin uses Sentry::Raven.
 
 =back
 
-=head1 LICENSE
-
-Copyright (C) 2017, 2019 Akira Osada and Andrew Pam.
-
-Released under the MIT license
-http://opensource.org/licenses/mit-license.php
-
-=head1 AUTHOR
+=head1 AUTHORS
 
 Akira Osada E<lt>osd.akira@gmail.comE<gt>
 
 Andrew Pam E<lt>apam@infoxchange.orgE<gt>
+
+=head1 COPYRIGHT AND LICENSE
+
+Copyright 2017, 2019 Akira Osada and Andrew Pam
+
+Released under the MIT license
+http://opensource.org/licenses/mit-license.php
 
 =cut
